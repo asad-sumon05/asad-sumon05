@@ -1,142 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=ASADUZZAMAN%20SUMON&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,5,10,20&text=ASADUZZAMAN%20SUMON&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%C2%B7%20BUILDING%20THE%20WEB%20WITH%20PURPOSE&descColor=E2E8F0&descSize=15&descAlignY=59&animation=twinkling" width="100%" alt="Asaduzzaman Sumon — Full Stack Web Developer" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Building+Responsive+%26+Scalable+Web+Applications;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Turning+Complex+Problems+Into+Simple+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=E11D48&center=true&vCenter=true&width=820&lines=Full+Stack+Web+Developer+%E2%80%94+Uttara%2C+Bangladesh;Building+responsive%2C+useful+digital+experiences;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+MongoDB;With+great+code+comes+great+responsibility." alt="Animated introduction" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-2025-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Diploma%20in%20CSE-2021-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/PTE%20Academic-67-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Uttara%2C%20Bangladesh-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSE_Engineer-0F172A?style=for-the-badge&logo=codefactor&logoColor=FFFFFF" alt="CSE Engineer" />
+<img src="https://img.shields.io/badge/PTE_Academic-67_overall-2563EB?style=for-the-badge&logo=googletranslate&logoColor=FFFFFF" alt="PTE Academic — 67 overall" />
+<img src="https://img.shields.io/badge/Uttara%2C_Bangladesh-DC2626?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF" alt="Uttara, Bangladesh" />
 
 <br/><br/>
 
-<a href="https://asad-sumon.com">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/asad-sumon05/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:asad.sumon05@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/asad-sumon05">
-<img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://asad-sumon.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/asad-sumon05/"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="mailto:asad.sumon05@gmail.com"><img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+<a href="https://github.com/asad-sumon05"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=asad-sumon05&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/asad-sumon05?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/asad-sumon05?style=for-the-badge&color=8B5CF6&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=asad-sumon05&style=for-the-badge&color=DC2626&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/asad-sumon05?style=for-the-badge&color=2563EB&label=FOLLOWERS&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/asad-sumon05?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=STARS&logo=github" alt="GitHub stars" />
 
 </div>
 
 ---
 
-## About
+## 🕸️ About
 
-I am a **Full Stack Web Developer and CSE Engineer** with professional experience in web development, system analysis, database management, and project delivery.
+I’m **Asaduzzaman Sumon**, a Full Stack Web Developer and CSE Engineer based in Uttara, Bangladesh. I build responsive, maintainable web experiences by connecting thoughtful interface design with dependable application logic.
 
-My core focus is building **responsive, maintainable, and user-centered web applications** across the frontend and backend. I work with modern web technologies including **HTML, CSS, JavaScript, React, Node.js, Express.js, Python, MongoDB, and SQL**.
+My work spans frontend development, custom theme creation, system analysis, database-driven applications, and product-minded delivery. I enjoy reducing complicated requirements to clear, useful experiences—because *the function of good software is to make the complex appear simple.*
 
-I enjoy solving technical problems through structured thinking, clean implementation, and practical engineering decisions. My experience also includes **custom theme development, responsive interfaces, website performance optimization, project coordination, and visual design for digital products**.
+I work with JavaScript, React, Node.js, Express, Python, MongoDB, and SQL, and I’m actively exploring how AI-assisted tools and intelligent features can improve practical web products.
 
-Alongside web engineering, I have a strong interest in **AI/ML, modern software architecture, automation, and product engineering**, with the goal of continuously expanding from application development toward building intelligent and scalable technology products.
+### Open to
 
-### Open To
-
-`Full Stack Development` · `Frontend Engineering` · `Backend Development` · `Web Development` · `Software Engineering` · `AI/ML Exploration` · `Open Source` · `Collaborative Projects`
+`Full Stack Development` · `Frontend Engineering` · `Web Development` · `Product Engineering` · `AI/ML Exploration` · `Collaborative Projects`
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" />
-</p>
-
-### Design & Productivity
-
-<p>
-<img src="https://skillicons.dev/icons?i=illustrator,photoshop&theme=dark" />
-</p>
-
-`Canva` · `MS Word`
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cpp&theme=dark" alt="HTML, CSS, JavaScript, Python, Java, C++" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="React, Tailwind CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; Data</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL" /></td>
+  </tr>
+  <tr>
+    <td><strong>Tools &amp; Design</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,photoshop,illustrator&theme=dark" alt="Git, GitHub, Photoshop, Illustrator" /> &nbsp; <code>Canva</code> <code>MS Word</code></td>
+  </tr>
+</table>
 
 ---
 
-## AI / ML Expertise
+## AI / ML Exploration
 
-| Domain | Proficiency | Details |
+| Domain | Current focus | Details |
 |---|:---:|---|
-| Artificial Intelligence | Exploring | Interested in applying AI to practical software and product-development workflows |
-| Machine Learning | Exploring | Building foundational knowledge of machine-learning concepts and applications |
-| Generative AI | Exploring | Exploring LLM-powered applications and AI-assisted development |
-| AI Integration | Foundational | Interested in integrating intelligent capabilities into modern web applications |
-| Data & Databases | Intermediate | Practical experience with MongoDB, SQL, database management, and application data |
-| Problem Solving | Strong | Analytical approach to breaking complex technical requirements into practical solutions |
+| AI-enabled products | Exploring | Learning how intelligent features can make web products more useful. |
+| Machine learning | Exploring | Building foundational understanding of machine-learning concepts and applications. |
+| Generative AI | Exploring | Investigating LLM-assisted workflows and responsible product integration. |
+| Data & databases | Practical | Applying MongoDB and SQL to structured, application-focused data workflows. |
+| Problem solving | Strong | Breaking complex technical requirements into clear, implementable solutions. |
 
 ---
 
-## Featured Projects
+## Featured Project
 
-<details>
-<summary><strong>Dhaka Bus Route — Public Transport Information Platform</strong></summary>
+<details open>
+<summary><strong>🚌 Dhaka Bus Route — Public Transport Information Platform</strong></summary>
 
 <br/>
 
-A full-stack web application designed to make **Dhaka bus-route information easier to discover and understand**. Users can explore bus information based on their destination through a simple web interface.
-
-The project combines a React and Tailwind CSS frontend with a Python backend, MongoDB database, and custom routing logic for processing bus-route information.
+Dhaka Bus Route is a web project focused on making destination-based bus-route information easier to discover. The product approach is simple: present a complex public-transport problem through a clear, accessible web experience.
 
 | Category | Details |
 |---|---|
-| **Stack** | React.js · Tailwind CSS · Python · FastAPI · MongoDB |
-| **Scale** | Full-stack web application with route-based information processing |
-| **Performance** | Lightweight React interface with API-driven backend architecture |
-| **Security** | Backend API separation · Structured data handling · Input validation |
-| **Impact** | Makes Dhaka public transportation information more accessible to users |
-| **Repository** | [GitHub Repository](https://github.com/mostofa-s-cse/dhaka-bus-route) |
+| **Stack** | React · Tailwind CSS · Python · MongoDB |
+| **Scale** | Route-focused web application for public-transport information |
+| **Performance** | Lightweight, responsive interface designed for fast information discovery |
+| **Security** | Structured data handling and clear separation between interface and application logic |
+| **Impact** | Helps make Dhaka bus-route information more approachable for everyday users |
+| **Repository** | [View on GitHub](https://github.com/asad-sumon05) |
 
-### Engineering Scope
+### Engineering contribution
 
-- Developed backend application logic using Python.
-- Built responsive frontend interfaces with React.js and Tailwind CSS.
-- Worked with MongoDB as the NoSQL database layer.
-- Implemented custom logic for processing bus-route information.
-- Connected frontend components with backend API workflows.
-- Contributed across both frontend and backend development.
-- Collaborated with a development partner throughout the project lifecycle.
-- Worked toward transforming the project from an initial demonstration into a final implementation.
+- Worked across frontend and backend application concerns.
+- Built responsive interface patterns for accessible route discovery.
+- Applied practical data handling and product-thinking to a real local problem.
+- Focused on clarity, usability, and maintainable web-development practices.
 
-**Engineering Focus:** `Full Stack Development` · `REST APIs` · `React` · `Python` · `MongoDB` · `Routing Logic`
+`React` `Python` `MongoDB` `Tailwind CSS` `Full Stack Development`
 
 </details>
 
@@ -144,39 +111,30 @@ The project combines a React and Tailwind CSS frontend with a Python backend, Mo
 
 ## Experience
 
-### Intern — Web Developer
+### Intern — Web Developer · OnDevs
 
-**OnDevs**  
 `03/2025 — Present` · Dhaka, Bangladesh
 
-Working on frontend development and custom theme creation while contributing to responsive and modern web interfaces.
+Contributing to frontend development and custom theme creation for responsive, modern web interfaces.
 
-- Manage frontend development and custom theme creation.
-- Build and maintain responsive web interfaces using HTML, CSS, JavaScript, and React.
-- Collaborate with developers on web-development projects and implementation workflows.
-- Contributed to a **20% increase in team productivity** through effective development collaboration.
-- Focus on creating consistent, functional, and user-friendly web experiences.
-- Apply practical web-development principles across different project requirements.
+- Build and maintain web interfaces with HTML, CSS, JavaScript, and React.
+- Create and adapt custom themes to product and visual requirements.
+- Collaborate with developers on implementation workflows and delivery.
+- Contributed to a reported 20% increase in team productivity through development collaboration.
 
-`HTML` `CSS` `JavaScript` `React` `Frontend Development` `Web Technologies`
+`HTML` `CSS` `JavaScript` `React` `Frontend Development` `Custom Themes`
 
----
+### Junior Graphic Designer · Gentle Graphix
 
-### Junior Graphic Designer
-
-**Gentle Graphix**  
 `03/2022 — 06/2025` · Faridpur, Bangladesh
 
-Worked across print and digital design while developing practical experience in visual communication, branding, and digital templates.
+Created print and digital design work while building a strong foundation in visual communication and consistent brand presentation.
 
-- Designed modern and responsive web templates for multiple platforms.
-- Supported consistent visual identity and brand presentation.
-- Created print templates, brochures, flyers, and business collateral for clients across different industries.
-- Worked with Adobe Photoshop, Adobe Illustrator, and Canva.
-- Delivered high-quality visual assets for both print and digital applications.
-- Combined design principles with practical client and project requirements.
+- Designed responsive web templates for multiple platforms.
+- Produced brochures, flyers, print templates, and business collateral for varied clients.
+- Used Adobe Photoshop, Illustrator, and Canva to deliver polished digital and print assets.
 
-`Adobe Illustrator` `Adobe Photoshop` `Canva` `Graphic Design` `Digital Design` `Print Design`
+`Adobe Photoshop` `Illustrator` `Canva` `Digital Design` `Print Design`
 
 ---
 
@@ -186,55 +144,21 @@ Worked across print and digital design while developing practical experience in 
 
 | Recognition | Details |
 |---|---|
-| **Project Delivery** | Successfully delivered projects within required timelines |
-| **Website Performance** | Contributed to improvements resulting in approximately **20% better website performance** |
-| **Team Productivity** | Contributed to a **20% increase in team productivity** through effective development collaboration |
-| **PTE Academic** | Achieved **67 overall** in Pearson Test of English Academic |
-| **Full Stack Development** | Professional experience across frontend development, backend technologies, databases, and web application workflows |
+| **Project Delivery** | Delivered projects within required timelines. |
+| **Website Performance** | Contributed to a reported 20% improvement in website performance. |
+| **Team Productivity** | Contributed to a reported 20% increase in team productivity at OnDevs. |
+| **PTE Academic** | Achieved an overall score of **67**. |
 
 </div>
 
 ---
 
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Technology-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-6366F1?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-4F46E5?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
-## Coding Profiles
+## Education & Credentials
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-181818?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-181818?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-181818?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-181818?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
-</a>
+<img src="https://img.shields.io/badge/Computer_Science_%26_Engineering-Academic_Foundation-0F172A?style=for-the-badge&logo=academia&logoColor=FFFFFF" alt="Computer Science and Engineering" />
+<img src="https://img.shields.io/badge/Pearson_Test_of_English-Academic_67-2563EB?style=for-the-badge&logo=googletranslate&logoColor=FFFFFF" alt="PTE Academic 67" />
 
 </div>
 
@@ -244,27 +168,12 @@ Worked across print and digital design while developing practical experience in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asad-sumon05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=asad-sumon05&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180"/>
-
-</div>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=asad-sumon05&show_icons=true&hide_border=true&bg_color=0B1120&title_color=EF4444&icon_color=3B82F6&text_color=CBD5E1&ring_color=DC2626" alt="Asaduzzaman's GitHub stats" />
+<img height="175" src="https://streak-stats.demolab.com?user=asad-sumon05&hide_border=true&background=0B1120&ring=EF4444&fire=3B82F6&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-sumon05&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asad-sumon05&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-sumon05&layout=compact&hide_border=true&bg_color=0B1120&title_color=EF4444&text_color=CBD5E1&langs_count=8" alt="Most used languages" />
 
 </div>
 
@@ -274,7 +183,7 @@ Worked across print and digital design while developing practical experience in 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-sumon05&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-sumon05&bg_color=0B1120&color=CBD5E1&line=2563EB&point=EF4444&area=true&area_color=1D4ED8&hide_border=true&custom_title=Building%20in%20the%20Friendly%20Neighborhood" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -284,7 +193,7 @@ Worked across print and digital design while developing practical experience in 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asad-sumon05/asad-sumon05/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/asad-sumon05/asad-sumon05/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 
 </div>
 
@@ -293,30 +202,42 @@ Worked across print and digital design while developing practical experience in 
 ## Current Focus
 
 ```yaml
-Learning:
-  - Advanced Full Stack Development
-  - Modern Software Engineering Practices
-  - Artificial Intelligence & Machine Learning
-  - Scalable Web Application Architecture
-  - Backend Development
+learning:
+  - Advanced full stack development
+  - Modern software engineering practices
+  - AI and machine-learning foundations
 
-Building:
-  - Full Stack Web Applications
-  - Responsive Web Interfaces
-  - API-Driven Applications
-  - Practical Digital Products
+building:
+  - Responsive web interfaces
+  - Database-backed web applications
+  - Useful digital products
 
-Exploring:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Automation
-  - Modern Web Technologies
+exploring:
+  - AI-assisted product workflows
+  - Web performance and maintainability
+  - Better user experiences
 
-Open To:
-  - Full Stack Development Opportunities
-  - Frontend Engineering
-  - Backend Development
-  - Software Engineering Roles
-  - Open Source Collaboration
-  - Innovative Web Projects
+open_to:
+  - Full stack and frontend opportunities
+  - Collaborative engineering projects
+  - Learning-focused teams
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:asad.sumon05@gmail.com">Email</a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/asad-sumon05/">LinkedIn</a> &nbsp;•&nbsp;
+<a href="https://github.com/asad-sumon05">GitHub</a> &nbsp;•&nbsp;
+<a href="https://asad-sumon.com">Portfolio</a>
+
+<br/><br/>
+
+<i>“The function of good software is to make the complex appear to be simple.” — Grady Booch</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20&height=120&section=footer" width="100%" alt="" />
